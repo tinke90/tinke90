@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tinke90.
-- 👀 I am interested of programming in general.
+- 👀 Programming is my passion!
 - 🌱 I’m currently learning and studying in Hyria Education.
-- 💞️ I started as a hobbyist programmer in 2014
+- 💞️ I started as a hobbyist programmer in 2014,
+      and I'm still coding everyday, day to day.
 - 📫 Contacts on: fintoy.flr@gmail.com
 
 <!---
